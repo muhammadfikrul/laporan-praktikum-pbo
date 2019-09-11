@@ -30,7 +30,10 @@ Soal
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1!
 
 Jawab
-1. ![Class Diagram Karyawan](.../.../docs/2_Class_dan_Object/classdiagramkaryawan.jpg)
+
+1. 
+
+![Class Diagram Karyawan](img/classdiagramkaryawan.jpg)
 
 2. - Class Karyawan
    - Class KaryawanMain
@@ -47,13 +50,14 @@ Jawab
 
 ( Membuat dan mengakses anggota suatu class)
 
-![Mahasiswa](.../.../docs/2_Class_dan_Object/Mahasiswa.JPG)
-![TestMahasiswa](../../docs/2_Class_dan_Object/testmahasiswa1.jpg)
-![TampilMahasiwa](../../docs/2_Class_dan_Object/tampilmahasiswa1.jpg)
-![TampilMahasiswa2](../../docs/2_Class_dan_Object/tampilmahasiswa2.jpg)
+![Mahasiswa](img/Mahasiswa.jpg)
+![TestMahasiswa](img/testmahasiswa1.jpg)
+![TampilMahasiwa](img/tampilmahasiswa1.jpg)
+![TampilMahasiswa2](img/tampilmahasiswa2.jpg)
 
-Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Mahasiswa1941723005Fikrul.java)
-Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/TestMahasiswa.java)
+Contoh link kode program : [Class Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa1941723005Fikrul.java)
+
+Contoh link kode program : [Class TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
 Soal
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
@@ -65,7 +69,7 @@ Soal
 
 Jawab
 
-7. public class Mahasiswa1841720140{
+7. public class Mahasiswa1941723005Fikrul{
     public int nim;
     public String nama;
     public String alamat;
@@ -86,7 +90,7 @@ Jawab
 
 11. memanggil method tampilBiodata(); untuk menampilkan biodata mahasiswa
 
-12. ![testmahasiswa2](../../docs/2_Class_dan_Object/testmahasiswa2.jpg)
+12. ![testmahasiswa2](img/testmahasiswa2.jpg)
 
 ### Percobaan 3
 
@@ -96,8 +100,9 @@ Jawab
 ![](../../docs/2_Class_dan_Object/testbarang.jpg)
 ![](../../docs/2_Class_dan_Object/tampilbarang.jpg)
 
-Contoh link kode program : [Program 1](../../src/2_Class_dan_Object/Barang1941723005Fikrul.java)
-Contoh link kode program : [Program 2](../../src/2_Class_dan_Object/TestBarang.java)
+Contoh link kode program : [Class Barang](../../src/2_Class_dan_Object/Barang1941723005Fikrul.java)
+
+Contoh link kode program : [Class TestBarang](../../src/2_Class_dan_Object/TestBarang.java)
 
 Soal
 7. Apakah fungsi argumen dalam suatu method?
@@ -112,25 +117,34 @@ Jawab
 
 ## Tugas
  
-    (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-1. ![](.../.../docs/2_Class_dan_Object/classdiagramvideogame.jpg)
+1. 
+![](img/classdiagramvideogame.jpg)
 
-2. ![](.../.../docs/2_Class_dan_Object/SewaMain.jpg)
+2. 
+![](img/SewaMain.jpg)
 
-Contoh link kode program : [Class 1](../../src/2_Class_dan_Object/Sewa1941723005Fikrul.java)
-Contoh link kode program : [Class 2](../../src/2_Class_dan_Object/SewaMain.java)
+Contoh link kode program : [Class Sewa](../../src/2_Class_dan_Object/Sewa1941723005Fikrul.java)
 
-3. ![](.../.../docs/2_Class_dan_Object/Lingkaran.jpg)
-   ![](.../.../docs/2_Class_dan_Object/LingkaranMain.jpg)
-   ![](.../.../docs/2_Class_dan_Object/tampillingkaran.jpg)
+Contoh link kode program : [Class SewaMain](../../src/2_Class_dan_Object/SewaMain.java)
 
-Contoh link kode program : [Class 1](../../src/2_Class_dan_Object/Lingkaran1941723005Fikrul.java)
-Contoh link kode program : [Class 2](../../src/2_Class_dan_Object/LingkaranDemo.java)
+3. 
+![](img/Lingkaran.jpg)
 
-4. ![](.../.../docs/2_Class_dan_Object/BarangDua.jpg)
-   ![](.../.../docs/2_Class_dan_Object/BarangDuaMain.jpg)
-   ![](.../.../docs/2_Class_dan_Object/BarangDuaTampil.jpg)
+![](img/LingkaranMain.jpg)
+
+![](img/tampillingkaran.jpg)
+
+Contoh link kode program : [Class Lingkaran](../../src/2_Class_dan_Object/Lingkaran1941723005Fikrul.java)
+
+Contoh link kode program : [Class LingkaranDemo](../../src/2_Class_dan_Object/LingkaranDemo.java)
+
+4. 
+![](img/BarangDua.jpg)
+
+![](img/BarangDuaMain.jpg)
+
+![](img/BarangDuaTampil.jpg)
 
 Contoh link kode program : [Class 1](../../src/2_Class_dan_Object/BarangDua1941723005Fikrul.java)
 Contoh link kode program : [Class 2](../../src/2_Class_dan_Object/BarangDuaMain.java)
