@@ -21,7 +21,7 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 
 ### Percobaan 1
 
-(Membuat Class Diagram)
+Membuat Class Diagram
 
 Soal
 1. Gambarkan desain class diagram dari studi kasus 1!, 
@@ -90,15 +90,15 @@ Jawab
 
 11. memanggil method tampilBiodata(); untuk menampilkan biodata mahasiswa
 
-12. ![testmahasiswa2](img/testmahasiswa2.jpg)
+12. ![testmahasiswa2](img/testmahasiswa2.JPG)
 
 ### Percobaan 3
 
 ( Menulis method yang memiliki argument/parameter dan memiliki return)
 
-![](../../docs/2_Class_dan_Object/Barang.jpg)
-![](../../docs/2_Class_dan_Object/testbarang.jpg)
-![](../../docs/2_Class_dan_Object/tampilbarang.jpg)
+![Barang](img/Barang.JPG)
+![testbarang](img/testbarang.JPG)
+![Barang Runned](img/tampilbarang.JPG)
 
 Contoh link kode program : [Class Barang](../../src/2_Class_dan_Object/Barang1941723005Fikrul.java)
 
@@ -119,35 +119,35 @@ Jawab
  
 
 1. 
-![](img/classdiagramvideogame.jpg)
+![Class Diagram Video Game](img/classdiagramvideogame.JPG)
 
 2. 
-![](img/SewaMain.jpg)
+![SewaMain](img/SewaMain.JPG)
 
 Contoh link kode program : [Class Sewa](../../src/2_Class_dan_Object/Sewa1941723005Fikrul.java)
 
 Contoh link kode program : [Class SewaMain](../../src/2_Class_dan_Object/SewaMain.java)
 
 3. 
-![](img/Lingkaran.jpg)
+![Lingkaran](img/Lingkaran.JPG)
 
-![](img/LingkaranMain.jpg)
+![LingkaranMain](img/LingkaranMain.JPG)
 
-![](img/tampillingkaran.jpg)
+![Lingkaran Runned](img/tampillingkaran.JPG)
 
 Contoh link kode program : [Class Lingkaran](../../src/2_Class_dan_Object/Lingkaran1941723005Fikrul.java)
 
 Contoh link kode program : [Class LingkaranDemo](../../src/2_Class_dan_Object/LingkaranDemo.java)
 
 4. 
-![](img/BarangDua.jpg)
+![BarangDua](img/BarangDua.JPG)
 
-![](img/BarangDuaMain.jpg)
+![BarangDuaMain](img/BarangDuaMain.JPG)
 
-![](img/BarangDuaTampil.jpg)
+![BarangDua Runned](img/BarangDuaTampil.JPG)
 
-Contoh link kode program : [Class 1](../../src/2_Class_dan_Object/BarangDua1941723005Fikrul.java)
-Contoh link kode program : [Class 2](../../src/2_Class_dan_Object/BarangDuaMain.java)
+Contoh link kode program : [Class BarangDua](../../src/2_Class_dan_Object/BarangDua1941723005Fikrul.java)
+Contoh link kode program : [Class BarangDuaMain](../../src/2_Class_dan_Object/BarangDuaMain.java)
 
 ## Kesimpulan
 
