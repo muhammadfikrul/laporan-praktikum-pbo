@@ -2,7 +2,7 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+
 
 ## Ringkasan Materi
 
