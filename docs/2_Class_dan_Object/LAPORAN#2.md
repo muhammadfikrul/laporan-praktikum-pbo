@@ -77,10 +77,10 @@ Jawab
 }
 
 8. public void  tampilBiodata(){
-    System.out.println("Nim    : "+nim);
-    System.out.println("Nama    : "+nama);
+    System.out.println("Nim       : "+nim);
+    System.out.println("Nama      : "+nama);
     System.out.println("Alamat    : "+alamat);
-    System.out.println("Kelas    : "+kelas);
+    System.out.println("Kelas     : "+kelas);
 }
 
 9. object yang di instansi hanya ada 1 yaitu 
