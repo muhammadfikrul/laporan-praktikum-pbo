@@ -33,7 +33,7 @@ Jawab
 
 1. 
 
-![Class Diagram Karyawan](img/classdiagramkaryawan.jpg)
+![Class Diagram Karyawan](img/classdiagramkaryawan.JPG)
 
 2. - Class Karyawan
    - Class KaryawanMain
@@ -50,10 +50,10 @@ Jawab
 
 ( Membuat dan mengakses anggota suatu class)
 
-![Mahasiswa](img/Mahasiswa.jpg)
-![TestMahasiswa](img/testmahasiswa1.jpg)
-![TampilMahasiwa](img/tampilmahasiswa1.jpg)
-![TampilMahasiswa2](img/tampilmahasiswa2.jpg)
+![Mahasiswa](img/Mahasiswa.JPG)
+![TestMahasiswa](img/testmahasiswa1.JPG)
+![TampilMahasiwa](img/tampilmahasiswa1.JPG)
+![TampilMahasiswa2](img/tampilmahasiswa2.JPG)
 
 Contoh link kode program : [Class Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa1941723005Fikrul.java)
 
@@ -90,7 +90,8 @@ Jawab
 
 11. memanggil method tampilBiodata(); untuk menampilkan biodata mahasiswa
 
-12. ![testmahasiswa2](img/testmahasiswa2.JPG)
+12. 
+![testmahasiswa2](img/testmahasiswa2.JPG)
 
 ### Percobaan 3
 
