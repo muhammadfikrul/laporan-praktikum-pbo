@@ -20,11 +20,13 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![Sepeda](img/Sepeda1941723005Fikrul.JPG)
-![SepedaDemo](img/SepedaDemoMain.JPG)
+![SepedaDemo](img/SepedaDemo.JPG)
 ![hasilrunningSepedaDemoMain](img/hasilrunningSepedaDemo.JPG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMain.java)
+Contoh link kode program :
+ [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
+Contoh link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMain.java)
 
 ### Percobaan 2
 
@@ -34,12 +36,15 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ![Sepeda](img/Sepeda1941723005Fikrul.JPG)
 ![SepedaGunung](img/SepedaGunung.JPG)
-![SepedaDemo](img/SepedaDemoMainPlusGunung.JPG)
+![SepedaDemo](img/SepedaMainPlusGunung.JPG)
 ![hasilrunningSepedaDemoMainPlusGunung](img/hasilrunningSepedaDemoMainPlusSepedaGunung.JPG)
 
-Sepeda link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
-SepedaGunung link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
-hasilrunningSepedaDemoMainPlusGunung link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMainPlusGunung.java)
+Sepeda link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
+SepedaGunung link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+hasilrunningSepedaDemoMainPlusGunung link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMainPlusGunung.java)
 
 ## Pertanyaan
 
@@ -69,10 +74,12 @@ hasilrunningSepedaDemoMainPlusGunung link kode program : [ini contoh link ke kod
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![Teropong](img/Teropong1941723005Fikrul.JPG)
-![TeropongDemo](laporan-praktikum-pbo/docs/1_Pengantar_Konsep_PBO/img/TeropongDemo.JPG)
+![TeropongDemo](img/TeropongDemo.JPG)
 
-Teropong1941723005Fikrul link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Teropong1941723005Fikrul.java)
-TeropongDemo link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/TeropongDemo.java)
+Teropong1941723005Fikrul link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Teropong1941723005Fikrul.java)
+TeropongDemo link kode program : 
+[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/TeropongDemo.java)
 
 ## Kesimpulan
 
