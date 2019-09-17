@@ -79,7 +79,7 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo19417
 
 
 ### Pertanyaan
-    Soal
+Soal
 1. Apa yang dimaksud getter dan setter?
 2. Apa kegunaan dari method getSimpanan()?
 3. Method apa yang digunakan untuk menambah saldo?
@@ -108,9 +108,9 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo19417
  
 
 1. 
-![ecapdemojava](img/ecapdemojava1.PNG)
-![encaptestjava](img/encaptestjava1.PNG)
-![encaptest](img/encaptestq.PNG)
+![ecapdemojava](img/ecapdemojava.PNG)
+![encaptestjava](img/encaptestjava.PNG)
+![encaptest](img/encaptest.PNG)
 
                   file program tugas no satu, jadi satu di tugas no 3
 
