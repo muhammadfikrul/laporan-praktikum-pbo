@@ -108,9 +108,9 @@ Soal
  
 
 1. 
-![ecapdemojava](img/encapdemojava1.PNG)
-![encaptestjava](img/encaptestjava1.PNG)
-![encaptest](img/encaptest1.PNG)
+![ecapdemojava1](img/encapdemojava1.PNG)
+![encaptestjava1](img/encaptestjava1.PNG)
+![encaptest1](img/encaptest1.PNG)
 
                   file program tugas no satu, jadi satu di tugas no 3
 
