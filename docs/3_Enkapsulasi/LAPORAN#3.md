@@ -19,9 +19,9 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 
 ### Percobaan 1 - Enkapsulasi 
 
-![motorjava1](img/motorjava1.png)
-![motordemojava1](img/motordemojava1.png)
-![motordemo1](img/motordemo1.png)
+![motorjava1](img/motorjava1.PNG)
+![motordemojava1](img/motordemojava1.PNG)
+![motordemo1](img/motordemo1.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Motor1941723005Fikrul.java)
 
@@ -29,10 +29,10 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/MotorDemo19417230
 
 ### Percobaan 2 - Access Modifier
 
-![motorjava2](img/motorjava2.png)
-![motordemojava2](img/motordemojava2.png)
-![motordemo2](img/motordemo2.png)
-![motordemo2(1)](img/motordemo2(1).png)
+![motorjava2](img/motorjava2.PNG)
+![motordemojava2](img/motordemojava2.PNG)
+![motordemo2](img/motordemo2.PNG)
+![motordemo2(1)](img/motordemo2(1).PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Motor1941723005Fikrul.java)
 
@@ -49,15 +49,15 @@ muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 Jawab
 1. Karena method tambahKecepatan hanya bisa dijalankan ketika method nyalakanMesin yang digunakan untuk menyalakan mesin sudah dipanggil (kontakOn) sehingga yang muncul adalah else yaitu “Kecepatan tidak bisa bertambah karena Mesin Mati!”
 2. Agar atribut kecepatan dan kontak0n tidak bisa diakses oleh class lain dan mensetting atribut kecepatan dan kontakOn pada awal MotorDemo
-3. ![pertanyaan3](img/pertanyaanno3.png)
-![pertanyaan3](img/pertanyaanno3result.png)
+3. ![pertanyaan3](img/pertanyaanno3.PNG)
+![pertanyaan3](img/pertanyaanno3result.PNG)
 
 
 ### Percobaan 3 - Getter dan Setter
 
-![anggotajava1](img/anggotajava1.png)
-![koperasidemojava](img/koperasidemojava1.png)
-![koperasidemo](img/koperasidemo1.png)
+![anggotajava1](img/anggotajava1.PNG)
+![koperasidemojava](img/koperasidemojava1.PNG)
+![koperasidemo](img/koperasidemo1.PNG)
 
 
 file Program percobaan 3 jadi satu di percobaan 4
@@ -65,13 +65,13 @@ file Program percobaan 3 jadi satu di percobaan 4
 ### Percobaan 4 - Konstruktor, Instansiasi
 (  )
 
-![anggotajava1](img/anggotajava1.png)
-![koperasidemojava2](img/koperasidemojava2.png)
-![koperasidemo2](img/koperasidemo2.png)
+![anggotajava1](img/anggotajava1.PNG)
+![koperasidemojava2](img/koperasidemojava2.PNG)
+![koperasidemo2](img/koperasidemo2.PNG)
 
-![anggotajava2](img/anggotajava1.png)
-![koperasidemojava3](img/koperasidemojava1.png)
-![koperasidemo3](img/koperasidemo1.png)
+![anggotajava2](img/anggotajava1.PNG)
+![koperasidemojava3](img/koperasidemojava1.PNG)
+![koperasidemo3](img/koperasidemo1.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Anggota1941723005Fikrul.java)
 
@@ -108,40 +108,40 @@ Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo19417
  
 
 1. 
-![ecapdemojava](img/ecapdemojava1.png)
-![encaptestjava](img/encaptestjava1.png)
-![encaptest](img/encaptestq.png)
+![ecapdemojava](img/ecapdemojava1.PNG)
+![encaptestjava](img/encaptestjava1.PNG)
+![encaptest](img/encaptestq.PNG)
 
                   file program tugas no satu, jadi satu di tugas no 3
 
 2. karena pada method setAge() terdapat kondisi jika newAge>30 maka output nilai yang muncul adalah 30 maka jika diinput nilai 35 yang muncul tetaplah 30.
 
 3. 
-![](img/encapdemojava2.png)
-![](img/encaptestjava2.png)
-![](img/encaptest2.png)
+![](img/encapdemojava2.PNG)
+![](img/encaptestjava2.PNG)
+![](img/encaptest2.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/EncapDemo1941723005Fikrul.java)
 
 Contoh link kode program : [Program 2](../../src/3_Enkapsulasi/EncapTest1941723005Fikrul.java)
 
 4. 
-![](img/anggotaduajava1.png)
-![](img/testkoperasijava1.png)
-![](img/testkoperasi.png)
+![](img/anggotaduajava1.PNG)
+![](img/testkoperasijava1.PNG)
+![](img/testkoperasi.PNG)
      
          File program no 4 ada di tugas no 6 karena programnya saling berhubungan
 5. 
-![](img/anggotaduajava2.png)
-![](img/testkoperasijava1.png)
-![](img/testkoperasi2.png)
+![](img/anggotaduajava2.PNG)
+![](img/testkoperasijava1.PNG)
+![](img/testkoperasi2.PNG)
 
          File program no 5 ada di tugas no 6 karena programnya saling berhubungan
 
 6. 
-![](img/anggotaduajava2.png)
-![](img/testkoperasijava2.png)
-![](img/testkoperasi3.png)
+![](img/anggotaduajava2.PNG)
+![](img/testkoperasijava2.PNG)
+![](img/testkoperasi3.PNG)
 
 Contoh link kode program : [Program 1](../../src/3_Enkapsulasi/Anggota1941723005Fikrul.java)
 
