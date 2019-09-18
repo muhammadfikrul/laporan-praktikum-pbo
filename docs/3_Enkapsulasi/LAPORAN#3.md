@@ -108,7 +108,7 @@ Soal
  
 
 1. 
-![ecapdemojava1](img/encapdemojava1.PNG)
+![encapdemojava1](img/encapdemojava1.PNG)
 ![encaptestjava1](img/encaptestjava1.PNG)
 ![encaptest1](img/encaptest1.PNG)
 
