@@ -115,7 +115,7 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fi
 9. Class method adalah method yang belum diisi nilai.
 
 ## Tugas
-
+gi
 1. 
 ![encapdemojava1](img/encapdemojava1.PNG)
 ![encaptestjava1](img/encaptestjava1.PNG)
