@@ -5,6 +5,6 @@ public class SewaMain {
 		swa1.namaMember="Revi";
 		swa1.namaGame="Naruto";
 		swa1.cash=15000;
-		swa1.tampilSewa();
+		swa1.tampilSewaFikrul();
 	}
 }

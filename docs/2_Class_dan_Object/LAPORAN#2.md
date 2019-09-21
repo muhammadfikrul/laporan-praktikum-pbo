@@ -10,29 +10,26 @@
 6) Mahasiswa dapat memahami implementasi dari try-catch
 7) Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML
 
-
-
 ## Ringkasan Materi
 
-untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, mulai terbiasa dengan cara pengiriman 
-
+Secara singkat class adalah abstraksi dari sebuah object (nyata ataupun tdk nyata) (roger s pressman). Apabila kita ingin membuat class mahasiswa, maka kita perlu melakukan abstraksi (mengindikasi bagian – bagian penting yang merepresentasikan benda itu sendiri) dari object mahasiswa itu sendiri.
 
 ## Percobaan
 
-### Percobaan 1
+## Percobaan 1
 
-Membuat Class Diagram
+### Membuat Class Diagram
 
-Soal
+### Soal
+
 1. Gambarkan desain class diagram dari studi kasus 1!, 
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!, 
 3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1! 
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1!
 
-Jawab
+### Jawab
 
 1. 
-
 ![Class Diagram Karyawan](img/classdiagramkaryawan.JPG)
 
 2. - Class Karyawan
@@ -46,20 +43,24 @@ Jawab
 
 4. -tampilDataKaryawan():
 
-### Percobaan 2
+## Percobaan 2
 
-( Membuat dan mengakses anggota suatu class)
+### Membuat dan Mengakses Anggota Suatu Class
 
 ![Mahasiswa](img/Mahasiswa.JPG)
+
 ![TestMahasiswa](img/testmahasiswa1.JPG)
+
 ![TampilMahasiwa](img/tampilmahasiswa1.JPG)
+
 ![TampilMahasiswa2](img/tampilmahasiswa2.JPG)
 
-Contoh link kode program : [Class Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa1941723005Fikrul.java)
+link kode program : [Class Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa1941723005Fikrul.java)
 
-Contoh link kode program : [Class TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
+link kode program : [Class TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
-Soal
+### Soal
+
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 8. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
 9. Berapa banyak objek yang di instansiasi pada program diatas!
@@ -67,7 +68,7 @@ Soal
 11. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()”? 
 12. Instansiasi 2 objek lagi pada program diatas!
 
-Jawab
+### Jawab
 
 7. public class Mahasiswa1941723005Fikrul{
     public int nim;
@@ -93,17 +94,19 @@ Jawab
 12. 
 ![testmahasiswa2](img/testmahasiswa2.JPG)
 
-### Percobaan 3
+## Percobaan 3
 
-( Menulis method yang memiliki argument/parameter dan memiliki return)
+### Menulis method yang memiliki argument/parameter dan memiliki return
 
 ![Barang](img/Barang.JPG)
+
 ![testbarang](img/testbarang.JPG)
+
 ![Barang Runned](img/tampilbarang.JPG)
 
-Contoh link kode program : [Class Barang](../../src/2_Class_dan_Object/Barang1941723005Fikrul.java)
+link kode program : [Class Barang](../../src/2_Class_dan_Object/Barang1941723005Fikrul.java)
 
-Contoh link kode program : [Class TestBarang](../../src/2_Class_dan_Object/TestBarang.java)
+link kode program : [Class TestBarang](../../src/2_Class_dan_Object/TestBarang.java)
 
 Soal
 7. Apakah fungsi argumen dalam suatu method?
@@ -120,14 +123,18 @@ Jawab
  
 
 1. 
-![Class Diagram Video Game](img/classdiagramvideogame.JPG)
+![classdiagramvideogamefikrul](img/classdiagramvideogamefikrul.JPG)
 
-2. 
+2.
+![sewajava](img/sewajava.JPG)
+
+![sewamainjava](img/sewamainjava.JPG)
+
 ![SewaMain](img/SewaMain.JPG)
 
-Contoh link kode program : [Class Sewa](../../src/2_Class_dan_Object/Sewa1941723005Fikrul.java)
+link kode program : [Class Sewa](../../src/2_Class_dan_Object/Sewa1941723005Fikrul.java)
 
-Contoh link kode program : [Class SewaMain](../../src/2_Class_dan_Object/SewaMain.java)
+link kode program : [Class SewaMain](../../src/2_Class_dan_Object/SewaMain.java)
 
 3. 
 ![Lingkaran](img/Lingkaran.JPG)
@@ -136,9 +143,9 @@ Contoh link kode program : [Class SewaMain](../../src/2_Class_dan_Object/SewaMai
 
 ![Lingkaran Runned](img/tampillingkaran.JPG)
 
-Contoh link kode program : [Class Lingkaran](../../src/2_Class_dan_Object/Lingkaran1941723005Fikrul.java)
+link kode program : [Class Lingkaran](../../src/2_Class_dan_Object/Lingkaran1941723005Fikrul.java)
 
-Contoh link kode program : [Class LingkaranDemo](../../src/2_Class_dan_Object/LingkaranDemo.java)
+link kode program : [Class LingkaranDemo](../../src/2_Class_dan_Object/LingkaranDemo.java)
 
 4. 
 ![BarangDua](img/BarangDua.JPG)
@@ -147,13 +154,14 @@ Contoh link kode program : [Class LingkaranDemo](../../src/2_Class_dan_Object/Li
 
 ![BarangDua Runned](img/BarangDuaTampil.JPG)
 
-Contoh link kode program : [Class BarangDua](../../src/2_Class_dan_Object/BarangDua1941723005Fikrul.java)
-Contoh link kode program : [Class BarangDuaMain](../../src/2_Class_dan_Object/BarangDuaMain.java)
+link kode program : [Class BarangDua](../../src/2_Class_dan_Object/BarangDua1941723005Fikrul.java)
+
+link kode program : [Class BarangDuaMain](../../src/2_Class_dan_Object/BarangDuaMain.java)
 
 ## Kesimpulan
 
-• class adalah abstraksi dari sebuah object.
-• intansiasi objek meliputi penginputan semua atribut dan pelaksanaan method yang dinginkan.
+• Class adalah abstraksi dari sebuah object.
+• Intansiasi objek meliputi penginputan semua atribut dan pelaksanaan method yang dinginkan.
 • Method bisa memiliki argumen yang menjadi tambahan input dalam program.
 
 ## Pernyataan Diri

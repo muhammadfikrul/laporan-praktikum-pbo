@@ -4,7 +4,7 @@ public class Sewa1941723005Fikrul {
 	public String namaGame;
 	public int cash;
 
-public void tampilSewa() {
+public void tampilSewaFikrul() {
 	System.out.println ("Id          : " +id);
 	System.out.println ("Nama Member : " +namaMember);
 	System.out.println ("Nama Game   : " +namaGame);
