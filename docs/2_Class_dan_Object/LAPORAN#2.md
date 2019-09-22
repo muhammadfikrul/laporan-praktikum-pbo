@@ -20,14 +20,14 @@ Secara singkat class adalah abstraksi dari sebuah object (nyata ataupun tdk nyat
 
 ### Membuat Class Diagram
 
-### Soal
+## Soal
 
 1. Gambarkan desain class diagram dari studi kasus 1!, 
 2. Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!, 
 3. Sebutkan atribut beserta tipe datanya yang dapat diidentifikasi dari masing-masing class dari studi kasus 1! 
 4. Sebutkan method-method yang sudah anda buat dari masing-masing class pada studi kasus 1!
 
-### Jawab
+## Jawab
 
 1. 
 ![Class Diagram Karyawan](img/classdiagramkaryawan.JPG)
@@ -59,7 +59,7 @@ link kode program : [Class Mahasiswa](../../src/2_Class_dan_Object/Mahasiswa1941
 
 link kode program : [Class TestMahasiswa](../../src/2_Class_dan_Object/TestMahasiswa.java)
 
-### Soal
+## Soal
 
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 8. Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
@@ -68,7 +68,7 @@ link kode program : [Class TestMahasiswa](../../src/2_Class_dan_Object/TestMahas
 11. Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()”? 
 12. Instansiasi 2 objek lagi pada program diatas!
 
-### Jawab
+## Jawab
 
 7. public class Mahasiswa1941723005Fikrul{
     public int nim;
@@ -118,10 +118,8 @@ Jawab
 
 8. Return di gunakan untuk tipe data int yang berfungsi untuk mengembalikan data int.
 
-
 ## Tugas
  
-
 1. 
 ![classdiagramvideogamefikrul](img/classdiagramvideogame.JPG)
 
