@@ -115,7 +115,14 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
 
 ## Percobaan 3 
 
+![pegawaijava1](img/pegawaijava1.PNG)
+![pegawaijava2](img/pegawaijava2.PNG)
 
+![keretaapijava1](img/keretaapijava1.PNG)
+![keretaapijava2](img/keretaapijava2.PNG)
+![keretaapijava3](img/keretaapijava3.PNG)
+
+![mainpercobaan3](img/mainpercobaan3.PNG)
 
 ## Pertanyaan 
  
@@ -128,6 +135,18 @@ System.out.println(keretaApi.info());
 3. Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ? 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan ! 
  
+## Jawab
+
+1. Mengisikan setiap info dari objek yang ada di class Pegawai dengan cara mengambil hasil dari fungsi info() yang ada di class Pegawai.
+
+2. 
+![p3mainpertanyaan2](img/p3mainpertanyaan2.PNG)
+
+3. Program tidak bisa dieksekusi karena ketidaksesuaian argumen dari method info di main dengan method info di class KeretaApi yaitu meniadakan asisten sedangkan method info() di class KeretaApi mengharuskan adanya asisten.
+
+4. 
+![p3pertanyaan4](img/p3pertanyaan4.PNG)
+
 ## Percobaan 4 
  
  
