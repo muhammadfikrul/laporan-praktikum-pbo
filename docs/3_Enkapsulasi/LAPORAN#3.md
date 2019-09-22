@@ -19,6 +19,7 @@ untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masa
 ### Enkapsulasi 
 
 ![motorjava1](img/motorjava1.PNG)
+
 ![motordemojava1](img/motordemojava1.PNG)
 ![motordemo1](img/motordemo1.PNG)
 
@@ -30,6 +31,7 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/MotorDemo1941723005Fikru
 ### Access Modifier
 
 ![motorjava2](img/motorjava2.PNG)
+
 ![motordemojava2](img/motordemojava2.PNG)
 ![motordemo2](img/motordemo2.PNG)
 ![motordemo2(1)](img/motordemo2(1).PNG)
@@ -38,14 +40,14 @@ link kode program : [Program 1](../../src/3_Enkapsulasi/Motor1941723005Fikrul.ja
 
 link kode program : [Program 2](../../src/3_Enkapsulasi/MotorDemo1941723005.java)
 
-### Pertanyaan
+## Pertanyaan
 
 1. Pada class TestMobil, saat kita menambah kecepatan untuk pertama kalinya, mengapa
 muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?  
 2. Mengapat atribut kecepatan dan kontakOn diset private?  
 3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
 
-### Jawab
+## Jawab
 
 1. Karena method tambahKecepatan hanya bisa dijalankan ketika method nyalakanMesin yang digunakan untuk menyalakan mesin sudah dipanggil (kontakOn) sehingga yang muncul adalah else yaitu “Kecepatan tidak bisa bertambah karena Mesin Mati!”
 
@@ -59,6 +61,7 @@ muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 ### Getter dan Setter
 
 ![anggotajava1](img/anggotajava1.PNG)
+
 ![koperasidemojava](img/koperasidemojava1.PNG)
 ![koperasidemo](img/koperasidemo1.PNG)
 
@@ -69,10 +72,12 @@ file Program percobaan 3 jadi satu di percobaan 4
 ### Konstruktor, Instansiasi
 
 ![anggotajava1](img/anggotajava1.PNG)
+
 ![koperasidemojava2](img/koperasidemojava2.PNG)
 ![koperasidemo2](img/koperasidemo2.PNG)
 
 ![anggotajava2](img/anggotajava1.PNG)
+
 ![koperasidemojava3](img/koperasidemojava1.PNG)
 ![koperasidemo3](img/koperasidemo1.PNG)
 
@@ -80,7 +85,7 @@ link kode program : [Program 1](../../src/3_Enkapsulasi/Anggota1941723005Fikrul.
 
 link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fikrul.java)
 
-### Pertanyaan
+## Pertanyaan
 
 1. Apa yang dimaksud getter dan setter?
 2. Apa kegunaan dari method getSimpanan()?
@@ -92,7 +97,7 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fi
 8. Apa perbedaan atribut class dan instansiasi atribut?
 9. Apa perbedaan class method dan instansiasi method?
     
-### Jawab
+## Jawab
 
 1. Mengambil dan mengisi data dalam atribut yang private access.
 
@@ -115,9 +120,10 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fi
 9. Class method adalah method yang belum diisi nilai.
 
 ## Tugas
-gi
+
 1. 
 ![encapdemojava1](img/encapdemojava1.PNG)
+
 ![encaptestjava1](img/encaptestjava1.PNG)
 ![encaptest1](img/encaptest1.PNG)
 
@@ -126,9 +132,10 @@ file program tugas no satu, jadi satu di tugas no 3
 2. Karena pada method setAge() terdapat kondisi jika newAge>30 maka output nilai yang muncul adalah 30 maka jika diinput nilai 35 yang muncul tetaplah 30.
 
 3. 
-![](img/encapdemojava2.PNG)
-![](img/encaptestjava2.PNG)
-![](img/encaptest2.PNG)
+![encapdemojava2](img/encapdemojava2.PNG)
+
+![encaptestjava2](img/encaptestjava2.PNG)
+![encaptest2](img/encaptest2.PNG)
 
 link kode program : [Program 1](../../src/3_Enkapsulasi/EncapDemo1941723005Fikrul.java)
 
@@ -136,22 +143,25 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/EncapTest1941723005Fikru
 
 4. 
 ![](img/anggotaduajava1.PNG)
-![](img/testkoperasijava1.PNG)
-![](img/testkoperasi.PNG)
+
+![testkoperasijava1](img/testkoperasijava1.PNG)
+![testkoperasi](img/testkoperasi.PNG)
      
 File program no 4 ada di tugas no 6 karena programnya saling berhubungan
 
 5. 
 ![](img/anggotaduajava2.PNG)
-![](img/testkoperasijava1.PNG)
-![](img/testkoperasi2.PNG)
+
+![testkoperasijava1](img/testkoperasijava1.PNG)
+![testkoperasi2](img/testkoperasi2.PNG)
 
 File program no 5 ada di tugas no 6 karena programnya saling berhubungan
 
 6. 
 ![](img/anggotaduajava2.PNG)
-![](img/testkoperasijava2.PNG)
-![](img/testkoperasi3.PNG)
+
+![testkoperasijava2](img/testkoperasijava2.PNG)
+![testkoperasi3](img/testkoperasi3.PNG)
 
 link kode program : [Program 1](../../src/3_Enkapsulasi/Anggota1941723005Fikrul.java)
 
