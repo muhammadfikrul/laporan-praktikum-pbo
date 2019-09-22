@@ -123,7 +123,7 @@ Jawab
  
 
 1. 
-![classdiagramvideogamefikrul](img/classdiagramvideogamefikrul.JPG)
+![classdiagramvideogamefikrul](img/classdiagramvideogame.JPG)
 
 2.
 ![sewajava](img/sewajava.JPG)
