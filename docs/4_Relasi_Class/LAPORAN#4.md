@@ -39,12 +39,17 @@ link kode program : [MainPercobaan1](../../src/4_Relasi_Class/MainPercobaaan1.ja
 ## Jawab
 
 1. Memberi (setter) atau mengambil (getter) nilai pada objek processor dan laptop.
+
 2. Konstruktor default untuk instansiasi tanpa parameter sedangkan konstruktor berparameter sebaliknya.
+
 3. proc
+
 4. 
-![p1pertanyaan4](img/p1pertanyaan4.PNG)
-![p1pertanyaan42](img/p1pertanyaan42.PNG)
+![p1pertanyaan4](img/p1pertanyaan4.png)
+![p1pertanyaan42](img/p1pertanyaan42.png)
+
 5. Menggunkan method info dalam class Processor
+
 6. 
 ![p1pertanyaan6](img/p1pertanyaan6.PNG)
 Terjadi warning karena sudah dilakukan instansiasi objek processor sebelumnya yaitu pada line 16 yang diatur dalam konstruktor : 
@@ -93,12 +98,17 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
  ## Jawab
 
  1. 
- ![p2pertanyaan1](img/p2pertanyaan1.PNG)
- ![p2pertanyaan12](img/p2pertanyaan12.PNG)
- 2. Karena method tersebut melakukan perkalian berdasarkan hari, maka harus ada argumen hari.
- 3. Untuk me result biaya total yaitu jumlah hari dikalikan dengan biaya masing masing class menggunakan rumus method yang ada di class mobil dan class sopir.
+ ![p2pertanyaan1](img/p2pertanyaan1.png)
+ ![p2pertanyaan12](img/p2pertanyaan12.png)
+
+ 2. Karena method tersebut melakukan perkalian atribut int-nya dengan hari untuk diperoleh fungsi menghitung jumlah biaya, maka harus ada argumen hari.
+ 
+ 3. Untuk me-result biaya total yaitu jumlah hari dikalikan dengan biaya masing masing class menggunakan rumus method yang ada di class mobil dan class sopir.
+ 
  4. Untuk memasukkan isi dari variabel m dan s ke dalam variabel p.
+ 
  5. Untuk menghitung total biaya.
+ 
  6. 
  ![p2pertanyaan6](img/p2pertanyaan6.PNG)
  Mengambil hasil instansiasi objek mobil dengan getMobil.get(modifier sesuai atribut dari mobil yang ingin diambil untuk ditampilkan)
