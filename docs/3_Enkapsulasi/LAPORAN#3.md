@@ -145,7 +145,7 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/EncapTest1941723005Fikru
 ![](img/anggotaduajava1.PNG)
 
 ![testkoperasijava1](img/testkoperasijava1.PNG)
-![testkoperasi](img/testkoperasi.PNG)
+![testkoperasi1](img/testkoperasi1.PNG)
      
 File program no 4 ada di tugas no 6 karena programnya saling berhubungan
 
