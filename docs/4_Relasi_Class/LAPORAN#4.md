@@ -20,6 +20,12 @@ Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari sat
 ![laptopjava2](img/laptopjava2.PNG)
 
 ![mainprocessorlaptop](img/mainprocessorlaptop.PNG)
+
+link kode program : [Class Laptop](../../src/4_Relasi_Class/Laptop1941723005Fikrul.java)
+
+link kode program : [Class Processor](../../src/4_Relasi_Class/Processor1941723005Fikrul.java)
+
+link kode program : [MainPercobaan1](../../src/4_Relasi_Class/MainPercobaaan1.java)
  
 ## Pertanyaan 
 
@@ -29,6 +35,24 @@ Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari sat
 4. Perhatikan class Laptop, pada baris manakah yang menunjukan bahwa class Laptop memiliki relasi dengan class Processor ? 
 5. Perhatikan pada class Laptop , Apakah guna dari sintaks proc.info() ? 
 6. Pada class MainPercobaan1, terdapat baris kode: Laptop l = new Laptop("Thinkpad", p);. Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menjadi: Laptop l = new Laptop("Thinkpad", new Processor("Intel i5", 3)); Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ? 
+
+## Jawab
+
+1. Memberi (setter) atau mengambil (getter) nilai pada objek processor dan laptop.
+2. Konstruktor default untuk instansiasi tanpa parameter sedangkan konstruktor berparameter sebaliknya.
+3. proc
+4. 
+![p1pertanyaan4](img/p1pertanyaan4.PNG)
+![p1pertanyaan42](img/p1pertanyaan42.PNG)
+5. Menggunkan method info dalam class Processor
+6. 
+![p1pertanyaan6](img/p1pertanyaan6.PNG)
+Terjadi warning karena sudah dilakukan instansiasi objek processor sebelumnya yaitu pada line 16 yang diatur dalam konstruktor : 
+
+public Laptop1941723005Fikrul(String merk, Processor1941723005Fikrul proc) {
+	this.merk = merk;
+	this.proc = proc;
+    }
  
 ## Percobaan 2 
  
@@ -45,6 +69,14 @@ Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelangg
 
 ![mainmobilsopirpelanggan](img/mainmobilsopirpelanggan.PNG)
 
+link kode program : [Class Mobil](../../src/4_Relasi_Class/Mobil1941723005Fikrul.java)
+
+link kode program : [Class Sopir](../../src/4_Relasi_Class/Sopir1941723005Fikrul.java)
+
+link kode program : [Class Pelanggan](../../src/4_Relasi_Class/Pelanggan1941723005Fikrul.java)
+
+link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.java)
+
 ## Pertanyaan 
  
 1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir ? 
@@ -54,10 +86,23 @@ Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelangg
 5. Perhatikan class MainPercobaan2. Untuk apakah proses p.hitungBiayaTotal() tersebut ? 
 6. Perhatikan class MainPercobaan2, coba tambahkan pada baris terakhir dari method main dan amati perubahan saat di‑run! 
  
-System.out.println(p.getMobil().getMerk()); 
+    System.out.println(p.getMobil().getMerk()); 
  
-Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main tersebut? 
+    Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main tersebut? 
  
+ ## Jawab
+
+ 1. 
+ ![p2pertanyaan1](img/p2pertanyaan1.PNG)
+ ![p2pertanyaan12](img/p2pertanyaan12.PNG)
+ 2. Karena method tersebut melakukan perkalian berdasarkan hari, maka harus ada argumen hari.
+ 3. Untuk me result biaya total yaitu jumlah hari dikalikan dengan biaya masing masing class menggunakan rumus method yang ada di class mobil dan class sopir.
+ 4. Untuk memasukkan isi dari variabel m dan s ke dalam variabel p.
+ 5. Untuk menghitung total biaya.
+ 6. 
+ ![p2pertanyaan6](img/p2pertanyaan6.PNG)
+ Mengambil hasil instansiasi objek mobil dengan getMobil.get(modifier sesuai atribut dari mobil yang ingin diambil untuk ditampilkan)
+
 ## Percobaan 3 
 
 
@@ -104,4 +149,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***Muhammad Fikrul Haqi***
+***(Muhammad Fikrul Haqi)***
