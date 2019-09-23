@@ -11,7 +11,7 @@ Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari sat
  
 ## Percobaan 
  
-### Percobaan 1 
+## Percobaan 1 
  
 ![processorjava](img/processorjava.PNG)
 ![processorjava2](img/processorjava2.PNG)
@@ -149,7 +149,17 @@ System.out.println(keretaApi.info());
 
 ## Percobaan 4 
  
- 
+![penumpangjava1](img/penumpangjava1.PNG)
+![penumpangjava2](img/penumpangjava2.PNG)
+
+![kursijava1](img/kursijava1.PNG)
+![kursijava2](img/kursijava2.PNG)
+
+![gerbongjava1](img/gerbongjava1.PNG)
+![gerbongjava2](img/gerbongjava2.PNG)
+
+![mainpercobaan41](img/mainpercobaan41.PNG)
+![mainpercobaan42](img/mainpercobaan42.PNG)
  
 ## Pertanyaan 
  
@@ -161,14 +171,26 @@ System.out.println(keretaApi.info());
 3. Mengapa pada method setPenumpang() dalam class Gerbong, nilai nomor dikurangi dengan angka 1 ? 
 4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ? 
 5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain ! 
+
+## Jawab
+
+1. 10 kursi.
+
+2. Penambahan jika penumpang tidak null maka penambahan info pada penumpang.info(). 
  
+3. Karena urutan pertama array adalah 0 (nol) maka setiap input bilangan harus dikurangi 1 agar mengkonversi urutan bilangan tersebut dalam array.
+
+4. 
+
+5. 
+
 ## Tugas 
  
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Dengan praktikum ini, saya akhirnya paham bagaimana cara penerapan relasi class, dan saya bisa mengimplementasikan aggre
 
 ## Pernyataan Diri
 

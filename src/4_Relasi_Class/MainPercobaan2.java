@@ -16,14 +16,25 @@ public class MainPercobaan2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Mobil1941723005Fikrul m = new Mobil1941723005Fikrul(); 
-        m.setMerk("Avanza"); m.setBiaya(350000); 
-        Sopir1941723005Fikrul s = new Sopir1941723005Fikrul(); 
-        s.setNama("John Doe"); s.setBiaya(200000); 
-        Pelanggan1941723005Fikrul p = new Pelanggan1941723005Fikrul(); 
-        p.setNama("Jane Doe"); p.setMobil(m); p.setSopir(s); 
-        p.setHari(2); 
-        System.out.println("Biaya Total = " +  p.hitungBiayaTotal()); 
+        Mobil1941723005Fikrul m = new Mobil1941723005Fikrul();
+        m.setBiaya(350000);
+        m.setMerk("Toyota");
+        m.setNama("Avanza");
+
+        Sopir1941723005Fikrul s = new Sopir1941723005Fikrul();
+        s.setNama("John Doe");
+        s.setBiaya(200000);
+
+        Pelanggan1941723005Fikrul p = new Pelanggan1941723005Fikrul();
+        p.setNama("Jane Doe");
+        p.setMobil(m);
+        p.setSopir(s);
+        p.setHari(2);
+
+        System.out.println("Biaya Total = " + p.hitungBiayaTotal());
+
+        System.out.println(p.getMobil().getMerk());
+        System.out.println(p.getMobil().getNama());
     }
-    
+
 }

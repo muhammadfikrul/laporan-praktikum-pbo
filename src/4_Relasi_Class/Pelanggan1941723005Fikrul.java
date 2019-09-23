@@ -5,6 +5,7 @@ package com.mycompany.muhammad.relasiclass.percobaan2;
  * @author muham
  */
 public class Pelanggan1941723005Fikrul {
+
     private String nama;
     private Mobil1941723005Fikrul mobil;
     private Sopir1941723005Fikrul sopir;
@@ -44,8 +45,8 @@ public class Pelanggan1941723005Fikrul {
     public void setHari(int hari) {
         this.hari = hari;
     }
-    
-    public int hitungBiayaTotal() { 
-        return mobil.hitungBiayaMobil(hari) + sopir.hitungBiayaSopir(hari); 
-    } 
+
+    public int hitungBiayaTotal() {
+        return mobil.hitungBiayaMobil(hari) + sopir.hitungBiayaSopir(hari);
+    }
 }
