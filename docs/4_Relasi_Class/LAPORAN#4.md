@@ -111,6 +111,7 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
  
  6. 
  ![p2pertanyaan6](img/p2pertanyaan6.PNG)
+ 
  Mengambil hasil instansiasi objek mobil dengan getMobil.get(modifier sesuai atribut dari mobil yang ingin diambil untuk ditampilkan)
 
 ## Percobaan 3 
@@ -123,6 +124,12 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
 ![keretaapijava3](img/keretaapijava3.PNG)
 
 ![mainpercobaan3](img/mainpercobaan3.PNG)
+
+link kode program : [Class Pegawai](../../src/4_Relasi_Class/Pegawai1941723005Fikrul.java)
+
+link kode program : [Class KeretaApi](../../src/4_Relasi_Class/KeretaApi1941723005Fikrul.java)
+
+link kode program : [Class Gerbong](../../src/4_Relasi_Class/MainPercobaan3.java)
 
 ## Pertanyaan 
  
@@ -142,6 +149,8 @@ System.out.println(keretaApi.info());
 2. 
 ![p3mainpertanyaan2](img/p3mainpertanyaan2.PNG)
 
+link kode program : [MainPertanyaan](../../src/4_Relasi_Class/MainPertanyaan.java)
+
 3. Program tidak bisa dieksekusi karena ketidaksesuaian argumen dari method info di main dengan method info di class KeretaApi yaitu meniadakan asisten sedangkan method info() di class KeretaApi mengharuskan adanya asisten.
 
 4. 
@@ -160,7 +169,15 @@ System.out.println(keretaApi.info());
 
 ![mainpercobaan41](img/mainpercobaan41.PNG)
 ![mainpercobaan42](img/mainpercobaan42.PNG)
- 
+
+link kode program : [Class Penumpang](../../src/4_Relasi_Class/Penumpang1941723005Fikrul.java)
+
+link kode program : [Class Kursi](../../src/4_Relasi_Class/Kursi1941723005Fikrul.java)
+
+link kode program : [Class Gerbong](../../src/4_Relasi_Class/Gerbong1941723005Fikrul.java)
+
+link kode program : [MainPercobaan4](../../src/4_Relasi_Class/MainPercobaan4.java)
+
 ## Pertanyaan 
  
 1. Pada main program dalam class MainPercobaan4, berapakah jumlah kursi dalam Gerbong A ? 
@@ -176,13 +193,16 @@ System.out.println(keretaApi.info());
 
 1. 10 kursi.
 
-2. Penambahan jika penumpang tidak null maka penambahan info pada penumpang.info(). 
+2. Penambahan jika penumpang ada maka update info pada penumpang.info(). 
  
 3. Karena urutan pertama array adalah 0 (nol) maka setiap input bilangan harus dikurangi 1 agar mengkonversi urutan bilangan tersebut dalam array.
 
 4. 
+![p4pertanyaan4](img/p4pertanyaan4.PNG)
+setelah setPenumpang(p1, 1) info kursi 1 berubah menjadi info penumpang Budi.
 
 5. 
+![p4pertanyaan5](img/p4pertanyaan5.PNG)
 
 ## Tugas 
  
@@ -190,7 +210,7 @@ Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasik
 
 ## Kesimpulan
 
-Dengan praktikum ini, saya akhirnya paham bagaimana cara penerapan relasi class, dan saya bisa mengimplementasikan aggre
+Dengan praktikum ini, saya akhirnya paham bagaimana cara penerapan relasi class, dan saya bisa mengimplementasikan aggregasi antar class.
 
 ## Pernyataan Diri
 
