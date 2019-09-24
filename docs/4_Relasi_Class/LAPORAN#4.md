@@ -13,19 +13,16 @@ Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari sat
  
 ## Percobaan 1 
  
+ link kode program : [Class Processor](../../src/4_Relasi_Class/Processor1941723005Fikrul.java)
 ![processorjava](img/processorjava.PNG)
 ![processorjava2](img/processorjava2.PNG)
 
+link kode program : [Class Laptop](../../src/4_Relasi_Class/Laptop1941723005Fikrul.java)
 ![laptopjava](img/laptopjava.PNG)
 ![laptopjava2](img/laptopjava2.PNG)
 
-![mainprocessorlaptop](img/mainprocessorlaptop.PNG)
-
-link kode program : [Class Laptop](../../src/4_Relasi_Class/Laptop1941723005Fikrul.java)
-
-link kode program : [Class Processor](../../src/4_Relasi_Class/Processor1941723005Fikrul.java)
-
 link kode program : [MainPercobaan1](../../src/4_Relasi_Class/MainPercobaaan1.java)
+![mainprocessorlaptop](img/mainprocessorlaptop.PNG)
  
 ## Pertanyaan 
 
@@ -63,24 +60,21 @@ public Laptop1941723005Fikrul(String merk, Processor1941723005Fikrul proc) {
  
 Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelanggan bisa menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per hari.
 
+link kode program : [Class Mobil](../../src/4_Relasi_Class/Mobil1941723005Fikrul.java)
 ![mobiljava1](img/mobiljava1.PNG)
 ![mobiljava2](img/mobiljava2.PNG)
+
+link kode program : [Class Sopir](../../src/4_Relasi_Class/Sopir1941723005Fikrul.java)
 
 ![sopirjava1](img/sopirjava1.PNG)
 ![sopirjava2](img/sopirjava2.PNG)
 
+link kode program : [Class Pelanggan](../../src/4_Relasi_Class/Pelanggan1941723005Fikrul.java)
 ![pelangganjava1](img/pelangganjava1.PNG)
 ![pelangganjava2](img/pelangganjava2.PNG)
 
-![mainmobilsopirpelanggan](img/mainmobilsopirpelanggan.PNG)
-
-link kode program : [Class Mobil](../../src/4_Relasi_Class/Mobil1941723005Fikrul.java)
-
-link kode program : [Class Sopir](../../src/4_Relasi_Class/Sopir1941723005Fikrul.java)
-
-link kode program : [Class Pelanggan](../../src/4_Relasi_Class/Pelanggan1941723005Fikrul.java)
-
 link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.java)
+![mainmobilsopirpelanggan](img/mainmobilsopirpelanggan.PNG)
 
 ## Pertanyaan 
  
@@ -158,25 +152,21 @@ link kode program : [MainPertanyaan](../../src/4_Relasi_Class/MainPertanyaan.jav
 
 ## Percobaan 4 
  
+ link kode program : [Class Penumpang](../../src/4_Relasi_Class/Penumpang1941723005Fikrul.java)
 ![penumpangjava1](img/penumpangjava1.PNG)
 ![penumpangjava2](img/penumpangjava2.PNG)
 
+link kode program : [Class Kursi](../../src/4_Relasi_Class/Kursi1941723005Fikrul.java)
 ![kursijava1](img/kursijava1.PNG)
 ![kursijava2](img/kursijava2.PNG)
 
+link kode program : [Class Gerbong](../../src/4_Relasi_Class/Gerbong1941723005Fikrul.java)
 ![gerbongjava1](img/gerbongjava1.PNG)
 ![gerbongjava2](img/gerbongjava2.PNG)
 
+link kode program : [MainPercobaan4](../../src/4_Relasi_Class/MainPercobaan4.java)
 ![mainpercobaan41](img/mainpercobaan41.PNG)
 ![mainpercobaan42](img/mainpercobaan42.PNG)
-
-link kode program : [Class Penumpang](../../src/4_Relasi_Class/Penumpang1941723005Fikrul.java)
-
-link kode program : [Class Kursi](../../src/4_Relasi_Class/Kursi1941723005Fikrul.java)
-
-link kode program : [Class Gerbong](../../src/4_Relasi_Class/Gerbong1941723005Fikrul.java)
-
-link kode program : [MainPercobaan4](../../src/4_Relasi_Class/MainPercobaan4.java)
 
 ## Pertanyaan 
  
@@ -206,7 +196,15 @@ setelah setPenumpang(p1, 1) info kursi 1 berubah menjadi info penumpang Budi.
 
 ## Tugas 
  
-Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung).
+link kode program : [AnggotaHaji](../../src/4_Relasi_Class/AnggotaHaji.java)
+
+link kode program : [BiayaHaji](../../src/4_Relasi_Class/BiayaHaji.java)
+
+link kode program : [PaketHaji](../../src/4_Relasi_Class/PaketHaji.java)
+
+link kode program : [TahunKeberangkatan](../../src/4_Relasi_Class/TahunKeberangkatan.java)
+
+link kode program : [MainHaji](../../src/4_Relasi_Class/MainHajiFikrul.java)
 
 ## Kesimpulan
 
