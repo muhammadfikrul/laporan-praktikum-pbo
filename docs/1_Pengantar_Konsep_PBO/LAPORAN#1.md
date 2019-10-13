@@ -6,56 +6,48 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 1. Perbedaan paradigma berorientasi objek dengan paradigma struktural 
 2. Konsep dasar PBO 
 
-
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Memahami cara memasukkan attribute dan method serta melakukan inheritance yang benar dalam OOP.
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
+link kode program : [Sepeda1941723005Fikrul.java](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
 ![Sepeda](img/Sepeda1941723005Fikrul.JPG)
+
+link kode program : [SepedaDemoMain.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMain.java)
 ![SepedaDemo](img/SepedaDemo.JPG)
 ![hasilrunningSepedaDemoMain](img/hasilrunningSepedaDemo.JPG)
 
-Contoh link kode program :
- [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
-Contoh link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMain.java)
-
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
+link kode program : 
+[Sepeda1941723005Fikrul.java](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
 ![Sepeda](img/Sepeda1941723005Fikrul.JPG)
+
+link kode program : 
+[SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 ![SepedaGunung](img/SepedaGunung.JPG)
 ![SepedaDemo](img/SepedaMainPlusGunung.JPG)
+
+link kode program : 
+[SepedaDemoMainPlusGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMainPlusGunung.java)
 ![hasilrunningSepedaDemoMainPlusGunung](img/hasilrunningSepedaDemoMainPlusSepedaGunung.JPG)
 
-Sepeda link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1941723005Fikrul.java)
-SepedaGunung link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
-hasilrunningSepedaDemoMainPlusGunung link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemoMainPlusGunung.java)
+
 
 ## Pertanyaan
 
-(1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek!
  2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
  3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan dengan pemrograman struktural!
  4. Pada class Sepeda, terdapat state/atribut apa saja? 
  5. Tambahkan atribut warna pada class Sepeda.
  6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? 
  
- Jawaban
+ ## Jawaban
  
  1. Enkapsulasi : Penentuan hak akses terhadap entitas atau method dalam class agar mudah dalam melaksanakan program tanpa tercampur program lain yaitu : public, private, dan protected.
 	Inheritansi : Pewarisan class ke subclass atau cabang super class yang masih memiliki abstraksi dari entitas class induk contoh : Sepeda memiliki keturunan SepedaGunung 
@@ -66,20 +58,16 @@ hasilrunningSepedaDemoMainPlusGunung link kode program :
  4. Merk, Gear, dan Kecepatan.
  5. (img/soalno.5.JPG)
  6. Karena cukup menurunkan dengan extends dan secara otomatis sudah didapatkan atribut dalam abstraksi atau komponen sepeda secara umum. 
-)
+
 ## Tugas
-
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![Teropong](img/Teropong1941723005Fikrul.JPG)
 ![TeropongDemo](img/TeropongDemo.JPG)
 
 Teropong1941723005Fikrul link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Teropong1941723005Fikrul.java)
+[Teropong1941723005Fikrul.java](../../src/1_Pengantar_Konsep_PBO/Teropong1941723005Fikrul.java)
 TeropongDemo link kode program : 
-[ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/TeropongDemo.java)
+[TeropongDemo.java](../../src/1_Pengantar_Konsep_PBO/TeropongDemo.java)
 
 ## Kesimpulan
 
