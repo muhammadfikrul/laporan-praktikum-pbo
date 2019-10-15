@@ -12,7 +12,8 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu :
 ## Ringkasan Materi
 
 ## Percobaan 1
-    Untuk kasus contoh berikut ini, terdapat tiga kelas, yaitu Karyawan, Manager, dan Staff. Class Karyawan merupakan superclass dari Manager dan Staff dimana subclass Manager dan Staff memiliki method untuk menghitung gaji yang berbeda.
+
+Untuk kasus contoh berikut ini, terdapat tiga kelas, yaitu Karyawan, Manager, dan Staff. Class Karyawan merupakan superclass dari Manager dan Staff dimana subclass Manager dan Staff memiliki method untuk menghitung gaji yang berbeda.
 
 
 ![classdiagramp1](img/classdiagramp1.PNG)
@@ -134,7 +135,7 @@ link kode program : [SegitigaMain1941723005.java](../../src/7_Overriding_dan_Ove
 ![t13](img/t13.PNG)
 ![t14](img/t14.PNG)
 
-## 2. Overriding
+### 2. Overriding
 
 link kode program : [Manusia1941723005.java](../../src/7_Overriding_dan_Overloading/PerkalianKu1941723005.java)
 
