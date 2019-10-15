@@ -11,6 +11,10 @@ Setelah menempuh pokok bahasan ini, mahasiswa mampu :
 
 ## Ringkasan Materi
 
+- Method Overloading adalah sebuah kemampuan yang membolehkan sebuah class mempunyai 2 atau lebih method dengan nama yang sama, yang membedakan adalah parameternya.
+
+- Method overriding merupakan method yang parent class yang ditulis kembali oleh subclass yang mana method yang di override mempunyai value yang berbeda pada subclass. Overrided method harus menggunakan annotation @Override.
+
 ## Percobaan 1
 
 Untuk kasus contoh berikut ini, terdapat tiga kelas, yaitu Karyawan, Manager, dan Staff. Class Karyawan merupakan superclass dari Manager dan Staff dimana subclass Manager dan Staff memiliki method untuk menghitung gaji yang berbeda.
@@ -153,3 +157,17 @@ link kode program : [ManusiaMain1941723005.java](../../src/7_Overriding_dan_Over
 
 ![t24](img/t24.PNG)
 ![t25](img/t25.PNG)
+
+## Kesimpulan
+
+Polimorfisme (Overload dan Override) adalah suatu kejadian ketika objek dapat mengungkap banyak hal melalui suatu cara yang sama, suatu object dapat memiliki berbagai bentuk, sebagai object dari class sendiri atau object dari superclassnya. Dalam PBO, konsep ini memungkinkan digunakannya suatu interface yang sama untuk memerintah objek agar melakukan aksi atau tindakan yang mungkin secara prinsip sama namun secara proses berbeda.
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Muhammad Fikrul Haqi)***
