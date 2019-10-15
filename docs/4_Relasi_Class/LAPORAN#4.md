@@ -2,8 +2,8 @@
  
 ## Kompetensi
 
-### 1. Memahami konsep relasi kelas 
-### 2. Mengimplementasikan relasi has‑a dalam program. 
+1. Memahami konsep relasi kelas 
+2. Mengimplementasikan relasi has‑a dalam program. 
  
 ## Ringkasan Materi
 
@@ -33,7 +33,7 @@ link kode program : [MainPercobaan1](../../src/4_Relasi_Class/MainPercobaaan1.ja
 5. Perhatikan pada class Laptop , Apakah guna dari sintaks proc.info() ? 
 6. Pada class MainPercobaan1, terdapat baris kode: Laptop l = new Laptop("Thinkpad", p);. Apakah p tersebut ? Dan apakah yang terjadi jika baris kode tersebut diubah menjadi: Laptop l = new Laptop("Thinkpad", new Processor("Intel i5", 3)); Bagaimanakah hasil program saat dijalankan, apakah ada perubahan ? 
 
-## Jawab
+### Jawaban
 
 1. Memberi (setter) atau mengambil (getter) nilai pada objek processor dan laptop.
 
@@ -89,7 +89,7 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
  
     Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main tersebut? 
  
- ## Jawab
+ ### Jawaban
 
  1. 
  ![p2pertanyaan1](img/p2pertanyaan1.png)
@@ -136,7 +136,7 @@ System.out.println(keretaApi.info());
 3. Apa hasil output dari main program tersebut ? Mengapa hal tersebut dapat terjadi ? 
 4. Perbaiki class KeretaApi sehingga program dapat berjalan ! 
  
-## Jawab
+### Jawaban
 
 1. Mengisikan setiap info dari objek yang ada di class Pegawai dengan cara mengambil hasil dari fungsi info() yang ada di class Pegawai.
 
@@ -179,7 +179,7 @@ link kode program : [MainPercobaan4](../../src/4_Relasi_Class/MainPercobaan4.jav
 4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ? 
 5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain ! 
 
-## Jawab
+### Jawaban
 
 1. 10 kursi.
 
