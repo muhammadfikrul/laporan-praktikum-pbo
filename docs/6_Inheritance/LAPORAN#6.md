@@ -2,10 +2,10 @@
  
 ## Kompetensi
 
-### 1. Memahami konsep dasar inheritance atau pewarisan.
-### 2. Mampu membuat suatu subclass dari suatu superclass tertentu.
-### 3. Mampu mengimplementasikan konsep single dan multilevel inheritance.
-### 4. Mampu membuat objek dari suatu subclass dan melakukan pengaksesan terhadap atribut dan method baik yang dimiliki sendiri atau turunan dari superclassnya.
+1. Memahami konsep dasar inheritance atau pewarisan.
+2. Mampu membuat suatu subclass dari suatu superclass tertentu.
+3. Mampu mengimplementasikan konsep single dan multilevel inheritance.
+4. Mampu membuat objek dari suatu subclass dan melakukan pengaksesan terhadap atribut dan method baik yang dimiliki sendiri atau turunan dari superclassnya.
  
 ## Ringkasan Materi
 
@@ -25,7 +25,7 @@ link kode program : [Percobaan1.java](../../src/6_Inheritance/Percaobaan1.java)
 ## PERTANYAAN
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error!
 
-## JAWAB
+### JAWABAN
 
 2. Tidak ada keyword extends pada subclass(ClassB1941723005) yang digunakan untuk mewariskan atribut dan method dari superclass(ClassA1941723005)
 
@@ -43,7 +43,7 @@ link kode program : [Percobaan2.java](../../src/6_Inheritance/Percobaan2.java)
 ## PERTANYAAN
 2. Jelaskan apa penyebab program pada percobaan 1 ketika dijalankan terdapat error!
 
-## JAWAB
+### JAWABAN
 
 2. Tidak ada keyword extends pada subclass(ClassB1941723005) yang digunakan untuk mewariskan atribut dan method dari superclass(ClassA1941723005)
 
@@ -65,7 +65,7 @@ link kode program : [Percobaan3.java](../../src/6_Inheritance/Percobaan3.java)
 ![pertanyaan](img/pertanyaan2p3.PNG)
 3. Jelaskan mengapa pada class Tabung tidak dideklarasikan atribut “phi” dan “r” tetapi class tersebut dapat mengakses atribut tersebut!
 
-## JAWAB
+### JAWABAN
 
 1. Merepresentasikan objek dari class induk.
 
@@ -99,7 +99,7 @@ Jelaskan bagaimana urutan proses jalannya konstruktor saat objek test dibuat!
 4. Apakah fungsi super() pada potongan program dibawah ini diClassC!
 ![pertanyaan](img/pertanyaan4p4.PNG)
 
-## JAWAB
+### JAWABAN
 
 1. Super Class Adalah ClassA  SubClass nya : ClassB dan ClassC karena pada ClassB dan ClassC kita ketikkan Extends untuk mempresentasikan nilai dari induk Class
 
@@ -136,7 +136,7 @@ link kode program : [Inheritance1.java](../../src/6_Inheritance/Inheritance1.jav
 ![pertanyaan](img/pertanyaan4p5.PNG)
 5. Program pada percobaan 5 diatas termasuk dalam jenis inheritance apa? Jelaskan alasannya!
 
-## JAWAB
+### JAWABAN
 
 1. - Super class : Karyawan1941723005
     - Sub class : Manager1941723005 dan Staff1941723005
@@ -177,7 +177,7 @@ link kode program : [Inheritance2.java](../../src/6_Inheritance/Inheritance2.jav
 ![pertanyaan](img/pertanyaan5p6.PNG)
 Terlihat dipotongan program diatas atribut gaji, lembur dan potongan dapat diakses langsung. Kenapa hal ini bisa terjadi dan bagaimana class StaffTetap memiliki atribut gaji, lembur, dan potongan padahal dalam class tersebut tidak dideklarasikan atribut gaji, lembur, dan potongan?
 
-## JAWAB
+### JAWABAN
 
 1. - Single inheritance : Staff1941723005 extends Karyawan1941723005
 - Multilevel inheritance : StaffTetap1941723005 extends Staff1941723005 extends Karyawan1941723005 dan StaffHarian1941723005 extends Staff1941723005 extends Karyawan1941723005.
