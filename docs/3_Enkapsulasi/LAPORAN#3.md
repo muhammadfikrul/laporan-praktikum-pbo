@@ -11,7 +11,7 @@
 
 ## Ringkasan Materi
 
-untuk keseluruhan dalam menyelesaikan tugas yang di berikan dosen tidak ada masalah, mulai terbiasa dengan cara pengiriman 
+Enkapsulasi adalah pemberian hak akses menjadi private sehingga pada sebuah program, suatu kelas memiliki properti yang tidak bisa diakses oleh kelas lain. 
 
 ## Percobaan
 
@@ -56,7 +56,6 @@ muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 3. ![pertanyaan3](img/pertanyaanno3.PNG)
 ![pertanyaan3](img/pertanyaanno3result.PNG)
 
-
 ## Percobaan 3
 ### Getter dan Setter
 
@@ -93,7 +92,7 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fi
 4. Apa yand dimaksud konstruktor?
 5. Sebutkan aturan dalam membuat konstruktor?
 6. Apakah boleh konstruktor bertipe private?
-7. Kapan menggunakan parameter dengan passsing parameter?
+7. Kapan menggunakan parameter dengan passing parameter?
 8. Apa perbedaan atribut class dan instansiasi atribut?
 9. Apa perbedaan class method dan instansiasi method?
     
@@ -111,13 +110,13 @@ link kode program : [Program 2](../../src/3_Enkapsulasi/KoperasiDemo1941723005Fi
 
 5. Biasanya untuk inisialisasi data pada objek.
 
-6. Tidak, karena konstruktor akan dieksekusi saat pembuatan objek.
+6. Tidak, karena konstruktor merupakan default untuk public.
 
 7. Saat akan menentukan/memberikan suatu nilai atau merubah suatu nilai pada method/fungsi pada saat di jalankan.
 
-8. Atribut class adalah atribut yang belum di beri nilai dan bisa bersifat private sedangkan itansiasi atribut adalah pemberian nilai pada atribut.
+8. atribut class adalah atribut yang ada di Java Class sedangkan intansiasi atribut adalah proses dalam code pembuatan objek yang ada di Java Main Class.
 
-9. Class method adalah method yang belum diisi nilai.
+9. method class adalah method yang ada di Java Class sedangkan intansiasi method adalah proses dalam code pemanggilan method yang ada di Java Main Class.
 
 ## Tugas
 
