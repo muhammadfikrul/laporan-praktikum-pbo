@@ -36,16 +36,18 @@ public class Motor1941723005Fikrul {
 			System.out.println("Kecepatan tidak bisa berkurang karena Mesin Tidak Aktif! \n");
 		}
 	}
-	public void printStatus(){
-		if (kontakOn == true && kecepatan>100){
-			kecepatan=100;
-                        System.out.println("Kontak On");
-                        System.out.println("Anda sudah mencapai batas maksimum kecepatan (100), Kecepatan anda: tidak bisa ditambah lagi");
-                }
-		else{
-			System.out.println("Kontak Off");
-		}
-                        System.out.println("Kecepatan " + kecepatan +"\n");
-		
-	}
+	public void printStatus() {
+        if (kontakOn == true && kecepatan > 100) {
+            kecepatan = 100;
+            System.out.println("Anda sudah mencapai batas maksimum kecepatan (100), Kecepatan anda: tidak bisa ditambah lagi");
+        }
+        if (kontakOn == true) {
+            System.out.println("Kontak On");
+        } else {
+            System.out.println("Kontak Off");
+        }
+
+        System.out.println("Kecepatan " + kecepatan + "\n");
+
+    }
 }

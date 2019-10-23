@@ -53,8 +53,16 @@ muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 
 2. Agar atribut kecepatan dan kontak0n tidak bisa diakses oleh class lain dan mensetting atribut kecepatan dan kontakOn pada awal MotorDemo
 
-3. ![pertanyaan3](img/pertanyaanno3.PNG)
-![pertanyaan3](img/pertanyaanno3result.PNG)
+3. 
+![pertanyaan3](img/pertanyaanno3.PNG)
+![pertanyaan3](img/pertanyaanno3result1.PNG)
+![pertanyaan3](img/pertanyaanno3result2.PNG)
+![pertanyaan3](img/pertanyaanno3result3.PNG)
+![pertanyaan3](img/pertanyaanno3result4.PNG)
+![pertanyaan3](img/pertanyaanno3result5.PNG)
+![pertanyaan3](img/pertanyaanno3result6.PNG)
+![pertanyaan3](img/pertanyaanno3result7.PNG)
+![pertanyaan3](img/pertanyaanno3result8.PNG)
 
 ## Percobaan 3
 ### Getter dan Setter
