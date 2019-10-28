@@ -11,8 +11,11 @@ Pada kasus yang lebih kompleks, dalam suatu sistem akan ditemukan lebih dari sat
  
 ## Percobaan 
  
-## Percobaan 1 
+### Percobaan 1 
  
+ Diagram Kelas : 
+ ![diagramp1](img/diagramp1.PNG)
+
  link kode program : [Class Processor](../../src/4_Relasi_Class/Processor1941723005Fikrul.java)
 ![processorjava](img/processorjava.PNG)
 ![processorjava2](img/processorjava2.PNG)
@@ -24,7 +27,7 @@ link kode program : [Class Laptop](../../src/4_Relasi_Class/Laptop1941723005Fikr
 link kode program : [MainPercobaan1](../../src/4_Relasi_Class/MainPercobaaan1.java)
 ![mainprocessorlaptop](img/mainprocessorlaptop.PNG)
  
-## Pertanyaan 
+### Pertanyaan 
 
 1. Di dalam class Processor dan class Laptop , terdapat method setter dan getter untuk masing‑masing atributnya. Apakah gunanya method setter dan getter tersebut ? 
 2. Di dalam class Processor dan class Laptop, masing‑masing terdapat konstruktor default dan konstruktor berparameter. Bagaimanakah beda penggunaan dari kedua jenis konstruktor tersebut !
@@ -56,9 +59,10 @@ public Laptop1941723005Fikrul(String merk, Processor1941723005Fikrul proc) {
 	this.proc = proc;
     }
  
-## Percobaan 2 
+### Percobaan 2 
  
-Perhatikan diagram class berikut yang menggambarkan sistem rental mobil. Pelanggan bisa menyewa mobil sekaligus sopir. Biaya sopir dan biaya sewa mobil dihitung per hari.
+Diagram Kelas : 
+ ![diagramp2](img/diagramp2.PNG)
 
 link kode program : [Class Mobil](../../src/4_Relasi_Class/Mobil1941723005Fikrul.java)
 ![mobiljava1](img/mobiljava1.PNG)
@@ -76,7 +80,7 @@ link kode program : [Class Pelanggan](../../src/4_Relasi_Class/Pelanggan19417230
 link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.java)
 ![mainmobilsopirpelanggan](img/mainmobilsopirpelanggan.PNG)
 
-## Pertanyaan 
+### Pertanyaan 
  
 1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir ? 
 2. Perhatikan method hitungBiayaSopir pada class Sopir, serta method hitungBiayaMobil pada class Mobil. Mengapa menurut Anda method tersebut harus memiliki argument hari ?  
@@ -108,7 +112,10 @@ link kode program : [MainPercobaan2](../../src/4_Relasi_Class/MainPercobaan2.jav
  
  Mengambil hasil instansiasi objek mobil dengan getMobil.get(modifier sesuai atribut dari mobil yang ingin diambil untuk ditampilkan)
 
-## Percobaan 3 
+### Percobaan 3 
+
+Diagram Kelas : 
+ ![diagramp3](img/diagramp3.PNG)
 
 ![pegawaijava1](img/pegawaijava1.PNG)
 ![pegawaijava2](img/pegawaijava2.PNG)
@@ -125,7 +132,7 @@ link kode program : [Class KeretaApi](../../src/4_Relasi_Class/KeretaApi19417230
 
 link kode program : [Class Gerbong](../../src/4_Relasi_Class/MainPercobaan3.java)
 
-## Pertanyaan 
+### Pertanyaan 
  
 1. Di dalam method info() pada class KeretaApi, baris this.masinis.info() dan this.asisten.info() digunakan untuk apa ? 
 2. Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() !  
@@ -150,7 +157,10 @@ link kode program : [MainPertanyaan](../../src/4_Relasi_Class/MainPertanyaan.jav
 4. 
 ![p3pertanyaan4](img/p3pertanyaan4.PNG)
 
-## Percobaan 4 
+### Percobaan 4 
+
+Diagram Kelas : 
+ ![diagramp4](img/diagramp4.PNG)
  
  link kode program : [Class Penumpang](../../src/4_Relasi_Class/Penumpang1941723005Fikrul.java)
 ![penumpangjava1](img/penumpangjava1.PNG)
@@ -195,7 +205,9 @@ setelah setPenumpang(p1, 1) info kursi 1 berubah menjadi info penumpang Budi.
 ![p4pertanyaan5](img/p4pertanyaan5.PNG)
 
 ## Tugas 
- 
+
+![diagram](img/diagramtugas.PNG)
+
 link kode program : [AnggotaHaji](../../src/4_Relasi_Class/AnggotaHaji.java)
 
 link kode program : [BiayaHaji](../../src/4_Relasi_Class/BiayaHaji.java)
@@ -205,6 +217,8 @@ link kode program : [PaketHaji](../../src/4_Relasi_Class/PaketHaji.java)
 link kode program : [TahunKeberangkatan](../../src/4_Relasi_Class/TahunKeberangkatan.java)
 
 link kode program : [MainHaji](../../src/4_Relasi_Class/MainHajiFikrul.java)
+
+![maintugas](img/maintugas.PNG)
 
 ## Kesimpulan
 
