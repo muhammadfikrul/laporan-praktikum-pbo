@@ -1,44 +1,25 @@
-
 public class TahunKeberangkatan {
 
     private String tahun;
-    private PaketHaji paket;
 
     public TahunKeberangkatan() {
     }
 
-    public TahunKeberangkatan(String tahun, PaketHaji paket) {
+    public TahunKeberangkatan(String tahun) {
         this.tahun = tahun;
-        this.paket = paket;
-    }
-
-    public PaketHaji getPaket() {
-        return paket;
-    }
-
-    public void setPaket(PaketHaji paket) {
-        this.paket = paket;
     }
     
     public String getTahun() {
-        return this.tahun;
+        return tahun;
     }
 
-    /**
-     *
-     * @param tahun
-     * @param paket
-     */
-    public void setTahun(String tahun, PaketHaji paket) {
+    public void setTahun(String tahun) {
         this.tahun = tahun;
-        this.paket = paket;
     }
-
-    public String info() {
-        String info = "\n";
-
-        info += "Tahun: " + tahun + "\n";
-        info += "Paket: " + paket + "\n";
+    
+    public String info(){
+        String info = "";
+        info += this.tahun;
         return info;
     }
 }

@@ -1,23 +1,25 @@
-
 public class PaketHaji {
 
-    public String paket;
+    private String paket;
 
     public PaketHaji() {
     }
 
     public PaketHaji(String paket) {
         this.paket = paket;
+    }    
+    
+    public String getPaket() {
+        return paket;
     }
 
-    /**
-     *
-     * @param paket
-     */
-
-    public String info() {
-        String info = "\n";
-        info += "Biaya: " + paket + "\n";
+    public void setPaket(String paket) {
+        this.paket = paket;
+    }
+    
+    public String info(){
+        String info = "";
+        info += this.paket;
         return info;
     }
 }

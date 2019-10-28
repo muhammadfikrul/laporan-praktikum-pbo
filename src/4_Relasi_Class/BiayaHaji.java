@@ -1,16 +1,13 @@
-
 public class BiayaHaji {
 
     private String biaya;
-    public AnggotaHaji anggota;
 
-    public AnggotaHaji getAnggota() {
-        return anggota;
+    public BiayaHaji() {
     }
 
-    public void setAnggota(AnggotaHaji anggota) {
-        this.anggota = anggota;
-    } 
+    public BiayaHaji(String biaya) {
+        this.biaya = biaya;
+    }
 
     public String getBiaya() {
         return biaya;
@@ -19,14 +16,10 @@ public class BiayaHaji {
     public void setBiaya(String biaya) {
         this.biaya = biaya;
     }
-
-    /**
-     *
-     * @param biaya
-     */
-    public String info() {
-        String info = "\n";
-        info += "Biaya: " + biaya + "\n";
+    
+    public String info(){
+        String info = "";
+        info += this.biaya;
         return info;
     }
 

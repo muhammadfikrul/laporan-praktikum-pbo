@@ -15,10 +15,13 @@ public class MainHajiFikrul {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        AnggotaHaji a1 = new AnggotaHaji("351266112766", "Umar Mukhtar");
-        TahunKeberangkatan a = new TahunKeberangkatan("2008", "plus");
-        BiayaHaji da = new BiayaHaji("50000000");
-        System.out.println(a.info());
+        TahunKeberangkatan t1 = new TahunKeberangkatan("2020");
+        BiayaHaji b1 = new BiayaHaji("150000000");
+        PaketHaji p1 = new PaketHaji("Plus");
+
+        AnggotaHaji a1 = new AnggotaHaji("351266112766", "Umar Mukhtar", b1, p1, t1);
+
+        System.out.println(a1.info());
     }
-    
+
 }
