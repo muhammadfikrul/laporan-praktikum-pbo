@@ -100,7 +100,7 @@ d.
 
 ![sarjana2](img/sarjana2.PNG)
 
-![rektor2](img/rekto2.PNG)
+![rektor2](img/rektor2.PNG)
 
 ![program3](img/program3.PNG)
 
