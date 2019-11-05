@@ -14,6 +14,8 @@ e. Menerapkan object casting untuk meng-ubah bentuk objek
 
 ## Ringkasan Materi
 
+Alhamdulillaah materi bentuk dasar sampai argumen polimorfisme bisa saya pahami secara sederhana.
+
 ## Praktikum
 ## Percobaan 1 - Bentuk dasar Polimorfisme
 
@@ -63,7 +65,7 @@ pada baris 14 dan 15 (baris terakhir dalam method main ! Apa yang menyebabkan er
 Tidak adanya relasi antar dua kelas pada p=iEmp dan e=eBill yang dapat memungkinkan untuk instansiasi yang mereferensikan kelas super dengan extends atau implements interface pada salah satu class di setiap baris pereferensiannya pada baris 14 dan 15(di jobsheet).
 6. Polimorfisme dengan objek atau banyak objek pada suatu class baru bisa diterapkan apabila class tersebut memiliki hirearki penurunan class atau implementasi interface sehingga mewujudkan banyak wujud dari class yang diturunkan atau interface yang diimplementasikan.
 
-## Percobaan 2 - Virtual method invocation
+## Percobaan 2 - Virtual method invication
 
 link kode program : [Tester2](../../src/10_Polimorfisme/Tester21941723005Fikrul.java)
 
@@ -182,3 +184,17 @@ link kode program : [Destroyable1941723005Fikrul](../../src/10_Polimorfisme/Zomb
 link kode program : [MainTugas1941723005Fikrul](../../src/10_Polimorfisme/MainTugas1941723005Fikrul.java)
 
 ![MainTugas1941723005Fikrul](img/MainTugas1941723005Fikrul.PNG)
+
+## Kesimpulan
+
+Kesimpulan saya setelah praktikum 10 ini adalah bahwa polimorfisme merupakan konsep dalam pemrograman berbasis objek yang memungkinkan sebuah program menjamakkan statement pada method yang ada pada super class maupun interface class dengan bentuk homogen maupun heterogen.
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Muhammad Fikrul Haqi)***
