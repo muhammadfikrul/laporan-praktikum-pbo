@@ -36,7 +36,7 @@ public class AnggotaTest1941723005Fikrul extends TestCase {
 
     @Before
     public void setUp() {
-        instance = new Anggota1941723005Fikrul("Mudarris", "Jl. Tholabul 'Ilmi No. 001", "01111111");
+        instance = new Anggota1941723005Fikrul("Mudarris", "Jl. Tholabul Ilmi No. 001", "01111111");
         System.out.format("Start Testing : %s \n", this.getName());
     }
 
@@ -49,7 +49,7 @@ public class AnggotaTest1941723005Fikrul extends TestCase {
     public void testSave() {
         System.out.println("save test");
         this.instance.saveFikrul();
-        ArrayList<Anggota1941723005Fikrul> expResult = instance.getByNamaAndAlamatAndTeleponFikrul(instance.getNamaFikrul(), instance.getAlamatFikrul());
+        ArrayList<Anggota1941723005Fikrul> expResult = instance.getByNamaAndAlamatAndTeleponFikrul(instance.getNamaFikrul(), instance.getAlamatFikrul(), instance.getTeleponFikrul());
         assertTrue(expResult.size()>0);
     }
 
@@ -58,7 +58,7 @@ public class AnggotaTest1941723005Fikrul extends TestCase {
         System.out.println("search test");
         String keyword = "Mudarris";
         ArrayList<Anggota1941723005Fikrul> result = instance.searchFikrul(keyword);
-        ArrayList<Anggota1941723005Fikrul> expResult = instance.getByNamaAndAlamatAndTeleponFikrul(keyword, "");
+        ArrayList<Anggota1941723005Fikrul> expResult = instance.getByNamaAndAlamatAndTeleponFikrul(keyword, "", "");
         assertEquals(expResult.size(), result.size());
     }
 }

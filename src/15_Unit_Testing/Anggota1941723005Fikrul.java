@@ -148,17 +148,17 @@ public class Anggota1941723005Fikrul {
         ArrayList<Anggota1941723005Fikrul> ListAnggota = new ArrayList();
         ResultSet rs;
         if ((nama.trim().length() > 0) && (alamat.trim().length() > 0) && (telepon.trim().length() == 0)) {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE nama = '" + nama + "' and alamat = '" + alamat + "'");
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE nama = '" + nama + "' and alamat = '" + alamat + "'");
         } else if ((nama.trim().length() == 0) && (alamat.trim().length() > 0) && (telepon.trim().length() > 0)) {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE alamat = '" + alamat + "' and telepon = '" + telepon + "'");
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE alamat = '" + alamat + "' and telepon = '" + telepon + "'");
         } else if ((nama.trim().length() > 0) && (alamat.trim().length() == 0) && (telepon.trim().length() > 0)) {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE nama = '" + nama + "' and telepon = '" + telepon + "'"); 
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE nama = '" + nama + "' and telepon = '" + telepon + "'"); 
         } else if ((nama.trim().length() > 0) && (alamat.trim().length() == 0) && (telepon.trim().length() == 0)) {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE nama = '" + nama + "'");
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE nama = '" + nama + "'");
         } else if ((nama.trim().length() == 0) && (alamat.trim().length() > 0) && (telepon.trim().length() == 0)) {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE alamat = '" + alamat + "'");
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE alamat = '" + alamat + "'");
         } else {
-            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM kategori WHERE telepon = '" + telepon + "'");
+            rs = DBHelper1941723005Fikrul.selectQueryFikrul("SELECT * FROM anggota WHERE telepon = '" + telepon + "'");
         }
         try {
             while (rs.next()) {
